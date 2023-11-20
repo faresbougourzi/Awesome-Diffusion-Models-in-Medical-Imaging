@@ -31,7 +31,7 @@
 - [Survey Papers](#survey-papers)
 
 - [Papers](#papers)
-  - [Anomaly Detection](#anomaly-detection)
+  - [Anomaly Detection](#anomaly-detection1)
   - [Denoising](#denoising)
   - [Segmentation](#segmentation)
   - [Image-to-Image Translation](#image-to-image-translation)
